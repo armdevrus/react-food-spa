@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+https://img.shields.io/github/issues/armdevrus/react-food-spa
 In the project directory, you can run:
 
 ### `npm start`
