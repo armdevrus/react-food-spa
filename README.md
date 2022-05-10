@@ -1,3 +1,4 @@
+![GitHub watchers](https://img.shields.io/github/watchers/armdevrus/react-food-spa?style=plastic)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
