@@ -20,6 +20,7 @@ function Search({ callback = Function.prototype }) {
                     type="search"
                     name="search"
                     id="search"
+                    placeholder="Search"
                     value={value}
                     onChange={(event) => setValue(event.target.value)}
                     onKeyDown={handleKeyDown}
